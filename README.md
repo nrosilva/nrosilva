@@ -1,4 +1,4 @@
-- 👋 Ola, me chamo Nilson Rodrigues -  @nrosilva
+👋 Ola, me chamo Nilson Rodrigues -  @nrosilva
 -  Sou novo aqui estou aprendendo ...
 -  Estou fascinado cada dia aprendo algo novo
 -  Estou estudando Infraestrutura como Código (IaC), Deploy Contínuo (CD) + boas práticas DevSecOps
