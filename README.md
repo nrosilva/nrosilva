@@ -26,7 +26,7 @@ Códigos relacionados a automação e infraestrutura como código
 
 ✨ LinkedIn: 
 
-🌐 Blog/Twitter/GitHub Pages: Seu Blog
+🌐 Blog/Twitter/GitHub Pages: nrosilva.gthub.io
 
 📧 E-mail: nrosilva@me.com
 
